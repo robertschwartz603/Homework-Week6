@@ -27,5 +27,5 @@ setAttribute and `${weather.weather[0].icon}` is used to enable OpenWeatherMap i
 
 ### Active link:
 The deployed application can be viewed here:
-
+https://robertschwartz603.github.io/Homework-Week6/
 
