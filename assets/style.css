@@ -1,5 +1,26 @@
 /* ADD CUSTOM STYLING HERE */
-
 h1 {
-    color: rgb(21, 69, 88);
+    color: rgb(41, 108, 134);
+}
+
+/* UV STYLING */
+.uv-favorable{
+    background-color: rgb(90, 209, 90);
+    border-radius: 5px;
+    color: white;
+}
+.uv-moderate{
+    background-color: rgb(198, 226, 38);
+    border-radius: 5px;
+    color: white;
+}
+
+.uv-ohgod-sunblocknow{ 
+    background-color: rgb(226, 60, 38);
+    border-radius: 5px;
+    color: white;
+}
+
+#current-forecast {
+    background-color: rgb(138, 237, 255);
 }
