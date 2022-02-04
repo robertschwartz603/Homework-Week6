@@ -18,13 +18,14 @@ past searches are saved as an array that gets appended with each new search. thi
 ### Screenshots
 
 The initial landing page has only the base search field:
-![See example of initial page](./assets/img/weather1.jpg)
+![See example of initial page](./assets/img/weather2.jpg)
 
 But when a city is submitted: document.createElement, .classList and appendChild is used display the JSON data of the API Call with additional text:
 
 setAttribute and `${weather.weather[0].icon}` is used to enable OpenWeatherMap icons to pull through.
-![See example of initial page](./assets/img/weather2.jpg)
+![See example of initial page](./assets/img/weather1.jpg)
 
 ### Active link:
 The deployed application can be viewed here:
+
 
